@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/status", {data:[{}],fetch:[],mutations:void 0});
